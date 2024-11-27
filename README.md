@@ -1,2 +1,2 @@
 # STYLETOUR
-Bootstrap 5
+Online store page built with Bootstrap 5
